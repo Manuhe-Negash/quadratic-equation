@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: rgb(170, 125, 56);
+}
+.calculator{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    gap: 20px;
+}
+button {
+    border-radius: 5px;
+}
+input {
+    border-radius: 5px;
+}
