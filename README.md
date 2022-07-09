@@ -1,3 +1,3 @@
 # Quadratic Equation 
 
-An app that solves quadration equations. 
+This is an app that solves quadratic equations by asking for user input. The general form of a quadratic equation is $ax^2+bx+c=0$. The program asks the users for their required $a, b, c$ values. After asking and entering the values, the program then calculates the discriminant. The discriminant is an expression that shows how many solutions a quadratic equation has. The formula for the discriminant is $b^2$ $-$ $4ac$. If the discriminant is greater than $0$, it means that the quadratic equation has 2 solutions. If the discriminant is equal to $0$, the quadratic equation has 1 solution. If the discriminant is less than zero, the quadratic equation has no real number solutions. The program then plugs these values into the quadratic formula. The quadratic formula is $x=\frac{-b\pm\sqrt{discriminant}}{2a}$.
